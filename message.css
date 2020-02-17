@@ -23,7 +23,7 @@ input[type=email]{
 
 
 }   
-input[type=submit] {
+button {
     background-color: rgb(102, 76, 175);
     color: white;
     padding: 12px 20px;
@@ -31,7 +31,7 @@ input[type=submit] {
     border-radius: 4px;
     cursor: pointer;
   }
-input[type=submit]:hover {
+button:hover {
     background-color: #b47cb9;
    
   }
