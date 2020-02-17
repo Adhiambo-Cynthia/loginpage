@@ -18,6 +18,6 @@ btn.addEventListener('click',(e) =>{
         messageContent.textContent = message.value
         msg.innerHTML="Thank You for your feedback!"
         msg.getElementsByClassName.color="blue"
-        msg.value=''
+        message.value=''
     }
 })
