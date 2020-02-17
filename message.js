@@ -1,8 +1,9 @@
+const btn=document.querySelector("#btn")
 const message=document.querySelector("#message")
 const name=document.querySelector("#fname")
 const email=document.querySelector("#mail_")
 const msg=document.getElementById(msg)
-message.addEventListener('submit',(e) =>{
+btn.addEventListener('click',(e) =>{
     e.preventDefault()
     document.querySelector(".container").getElementsByClassName.background= "#b85880"
     if( name.value===''|| email.value===''){
