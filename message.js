@@ -2,7 +2,7 @@ const btn=document.querySelector("#btn")
 const message=document.querySelector("#message")
 const name=document.querySelector("#fname")
 const email=document.querySelector("#mail_")
-const msg=document.getElementById(msg)
+const msg=document.getElementById("msg")
 btn.addEventListener('click',(e) =>{
     e.preventDefault()
     document.querySelector(".container").getElementsByClassName.background= "#b85880"
