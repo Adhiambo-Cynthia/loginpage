@@ -35,7 +35,7 @@ input[type=text], input[type=password] {
   width: 60%;
   
 }
-button {
+.btn {
   background: linear-gradient(to bottom, #66ffcc 0%, #ff00ff 100%);
   color: white;
   
@@ -52,6 +52,7 @@ button:hover {
   transform: scale(.8);
   border-radius:10%;
 }
+
 
 
 
