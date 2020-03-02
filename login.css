@@ -3,12 +3,13 @@
   width: 70%;
   height: 80%;
   margin: auto;
+  top:100px;
   position: relative;
   padding: 10px;
 
 }
 
-.image_container {
+/* .image_container {
   text-align: center;
   margin: 24px 0 12px 0;
   height: 30%;
@@ -18,7 +19,7 @@
   width: 30%;
   border-radius:40%;
   height:200px;
-}
+} */
 input[type=text], input[type=password] {
   width: 100%;
   padding: 12px 20px;
